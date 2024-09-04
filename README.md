@@ -1,0 +1,2 @@
+Opis Projektu:
+Projekt polega na analizie efektywności kampanii marketingowej banku, przeprowadzonej za pomocą telefonicznych kontaktów z klientami. Celem jest zrozumienie, które aspekty kampanii (np. liczba kontaktów, dni od ostatego kontaktu) mają największy wpływ na otwarcie depozytów przez klientów. W projekcie użyto narzędzi Power BI oraz funkcji DAX do wizualizacji danych i obliczenia kluczowych wskaźników skuteczności kampanii.
