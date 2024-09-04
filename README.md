@@ -55,3 +55,7 @@ Wizualizacja macierzowa: Zastosowałem macierz do wizualizacji wpływu „Katego
 Formatowanie wizualizacji: Użyłem spójnych kolorów, czcionek i stylów, aby raport był estetyczny i czytelny.
 Dodanie filtrów i slicerów: Zastosowałem slicery do dynamicznego filtrowania wyników według liczby kontaktów i kategorii dni od ostatniego kontaktu.
 Przekształcenie wykresów: Zastosowałem różne typy wykresów, aby lepiej zobrazować wyniki i zależności między zmiennymi.
+
+## Podsumowanie
+
+Ten projekt analizuje skuteczność kampanii marketingowej banku, koncentrując się na liczbie kontaktów, czasie od ostatniego kontaktu oraz wynikach w postaci otwartych depozytów. Analiza pomaga lepiej zrozumieć, jakie czynniki mają największy wpływ na decyzje klientów, co może być przydatne do optymalizacji przyszłych kampanii. W projekcie wykorzystano zaawansowane funkcje DAX oraz narzędzia wizualizacyjne Power BI, aby przedstawić wyniki w sposób przystępny i interaktywny.
