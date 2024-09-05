@@ -47,7 +47,6 @@ Wykres słupkowy:
 Utworzyłem wykres słupkowy pokazujący „Liczbę kontaktów z pojedynczym klientem” w zakresie od 1 do 8. Wykres ten przedstawia liczbę klientów, którzy mieli określoną liczbę kontaktów, oraz skuteczność tych kontaktów.
 Wykres liniowy:
 
-Utworzyłem wykres liniowy przedstawiający Skuteczność kampanii % w zależności od liczby dni od ostatniego kontaktu (Pdays), aby zobaczyć, jak długość przerwy między kontaktami wpływa na decyzję klientów.
 Wizualizacja macierzowa: Zastosowałem macierz do wizualizacji wpływu „Kategorii dni od ostatniego kontaktu” na skuteczność kampanii, aby lepiej zrozumieć, które grupy czasowe miały najwyższy wskaźnik pozytywnych odpowiedzi.
 
 ### 4. Optymalizacja i formatowanie raportu
