@@ -54,9 +54,13 @@ Zastosowałem macierz do wizualizacji wpływu „Kategorii dni od ostatniego kon
 
 ## 4. Optymalizacja i formatowanie raportu
 
-Formatowanie wizualizacji: Użyłem spójnych kolorów, czcionek i stylów, aby raport był estetyczny i czytelny.
-Dodanie filtrów i slicerów: Zastosowałem slicery do dynamicznego filtrowania wyników według liczby kontaktów i kategorii dni od ostatniego kontaktu.
-Przekształcenie wykresów: Zastosowałem różne typy wykresów, aby lepiej zobrazować wyniki i zależności między zmiennymi.
+### Formatowanie wizualizacji:
+
+Użyłem spójnych kolorów, czcionek i stylów, aby raport był estetyczny i czytelny.
+
+### Przekształcenie wykresów:
+
+Zastosowałem różne typy wizualizacji, aby lepiej zobrazować wyniki i zależności między zmiennymi.
 
 # Podsumowanie
 
