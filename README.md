@@ -42,12 +42,15 @@ Utworzyłem trzy karty KPI, które pokazują:
 Liczbę depozytów (Liczba depozytów)
 Średnią liczbę dni od ostatniego kontaktu dla depozytów (Średnia liczba dni dla depozytów)
 Skuteczność kampanii w procentach (Skuteczność kampanii %)
-Wykres słupkowy:
+
+Wykres słupkowy: 
 
 Utworzyłem wykres słupkowy pokazujący „Liczbę kontaktów z pojedynczym klientem” w zakresie od 1 do 8. Wykres ten przedstawia liczbę klientów, którzy mieli określoną liczbę kontaktów, oraz skuteczność tych kontaktów.
 Wykres liniowy:
 
-Wizualizacja macierzowa: Zastosowałem macierz do wizualizacji wpływu „Kategorii dni od ostatniego kontaktu” na skuteczność kampanii, aby lepiej zrozumieć, które grupy czasowe miały najwyższy wskaźnik pozytywnych odpowiedzi.
+Wizualizacja macierzowa:
+
+Zastosowałem macierz do wizualizacji wpływu „Kategorii dni od ostatniego kontaktu” na skuteczność kampanii, aby lepiej zrozumieć, które grupy czasowe miały najwyższy wskaźnik pozytywnych odpowiedzi.
 
 ### 4. Optymalizacja i formatowanie raportu
 
